@@ -31,3 +31,22 @@ It demonstrates object-oriented programming (OOP), loops, conditionals, and stat
    - Continue playing rounds until you quit or run out of balance.
 
 ## Example Gameplay
+Starting Balance: 100
+Enter your bet: 20
+
+Dealer’s Hand: [Hidden] 9
+Your Hand: 10 7
+Total: 17
+Do you want to Hit (h) or Stand (s)? s
+
+Dealer’s Turn:
+Dealer’s Hand: 9 6
+Dealer draws: 7
+Dealer’s Hand: 9 6 7
+Dealer Total: 22
+
+---Round Result---
+Dealer busted. You win!
+Current Balance: 120
+Wins: 1 | Losses: 0
+Play another round? (y/n)
